@@ -11,7 +11,7 @@
     "url": "git://github.com/OpenBookPrices/openbookprices-fetchers.git"
   },
   "author": "",
-  "license": "AGPLv3",
+  "license": "AGPL-3.0",
   "readmeFilename": "README.md",
   "dependencies": {
     "commander": "~1.1.1",
